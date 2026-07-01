@@ -129,6 +129,4 @@ blinkit-sales-dashboard/
 ## Author
 
 **Krishna Priya M** — Data Analyst  
- priya.magapu.sk@gmail.com  
- [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)  
- [GitHub](https://github.com/krishnapriyah)
+
